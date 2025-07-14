@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Physics student in Universidad de Cantabria<br>
+🧠 Physicist <br>
 🔭 I’m currently working on Algorithm development for enhancing GPS-based measurements accuracy<br>
 🌱 I’m currently learning AI development with python<br>
 ⚡ Fun fact: I enjoy creating unique web applications.
